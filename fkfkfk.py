@@ -1,4 +1,4 @@
-
+#augšupielade
 """""""""
 #3.uzdevums
 skaitlis=float(input("uzmini skaitli:"))
@@ -267,3 +267,4 @@ izmaksa1=d_p+g_p+t_p
 izmaksas2=dp_c+gp_c+tp_c
 print(f"pildspalvu skaits ir {izmaksa1}")
 print(f"pildspalvu cena ir {izmaksas2} centi")
+
